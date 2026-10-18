@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.json.key
+*service-account*.json
+*.mp4
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
